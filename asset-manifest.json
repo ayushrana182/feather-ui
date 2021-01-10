@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/feather-ui/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/feather-ui/static/js/main.f6c96b7c.chunk.js",
+    "main.js.map": "/feather-ui/static/js/main.f6c96b7c.chunk.js.map",
+    "runtime-main.js": "/feather-ui/static/js/runtime-main.7fb38cb8.js",
+    "runtime-main.js.map": "/feather-ui/static/js/runtime-main.7fb38cb8.js.map",
+    "static/js/2.de824952.chunk.js": "/feather-ui/static/js/2.de824952.chunk.js",
+    "static/js/2.de824952.chunk.js.map": "/feather-ui/static/js/2.de824952.chunk.js.map",
+    "static/js/3.916fee45.chunk.js": "/feather-ui/static/js/3.916fee45.chunk.js",
+    "static/js/3.916fee45.chunk.js.map": "/feather-ui/static/js/3.916fee45.chunk.js.map",
+    "index.html": "/feather-ui/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/feather-ui/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.de824952.chunk.js.LICENSE.txt": "/feather-ui/static/js/2.de824952.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fb38cb8.js",
+    "static/js/2.de824952.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f6c96b7c.chunk.js"
+  ]
+}
